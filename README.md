@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**Davi38/Davi38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Meu nome é Davi e estudo na alura
 
-Here are some ideas to get you started:
+-estou me desenvolvendo com java script
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-ultilizo esse espaço para minha organizaçao e compatilhamento dos meu projetos desenvolvidos
+
+
+### voce entra em contato comigo 
+davidsantos3895@gmail.com
+
+![](https://media1.tenor.com/m/4tdgVCWep1IAAAAd/regele-fotbalului-regele.gif)
